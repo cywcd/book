@@ -7,3 +7,5 @@ Ball Pool 是一个基于 HTML5 技术的实验，模拟现实物理效果，让
 [textillate](http://www.yyyweb.com/demo/textillate/)
 ==============================
 textillate这个插件集成了一些非常好的 JavaScript 库，提供一个方便使用的文本动画插件，可以让你为网页中的文字运用各种动画。
+[iFly50](https://www.ifly50.com/en_cn/)
+==============================
