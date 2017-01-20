@@ -1,4 +1,4 @@
-* [本文来源：](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
+* [本文来源：vhf/free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 ## 目录
 
 * [语言无关](#语言无关)
