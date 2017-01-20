@@ -12,5 +12,5 @@ textillate这个插件集成了一些非常好的 JavaScript 库，提供一个�
 ==============================
 网站展示的图片非常漂亮，动画效果非常棒
 
-[These Beats Are Dope](http://these.beatsaredope.com/
+[These Beats Are Dope](http://these.beatsaredope.com/)
 ==============================
