@@ -25,7 +25,9 @@ react....
 ## 1.3 angularJS
 
 ### 1.3.1 angular组件库
-angular...
+* [AngularUI库](https://github.com/angular-ui) 
+* [基于angularJS开发的UI组件或工具类](https://github.com/linjinying/angular-components)  
+* [基于angularJS开发的UI组件或工具类](https://github.com/linjinying/angular-components)  
 
 2.微信小程序开发
 ------------------
