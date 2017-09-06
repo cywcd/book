@@ -6,12 +6,13 @@ PC端vue-UI组件库
 --------------------
 
 ##Element
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+![element](https://github.com/cywcd/book/blob/master/img/vueui_element_logo.png "element")
 
-star★：11.2k
-demo：http://element.eleme.io/#/zh-CN/component/layout
-docs：http://element.eleme.io/#/zh-CN
-github：https://github.com/ElemeFE/element
+ star★：11.2k
+* [demo：http://element.eleme.io/#/zh-CN/component/layout](http://element.eleme.io/#/zh-CN/component/layout)<br /> 
+* [docs：http://element.eleme.io/#/zh-CN](http://element.eleme.io/#/zh-CN)<br /> 
+* [github：https://github.com/ElemeFE/element](https://github.com/ElemeFE/element)<br /> 
+'' javascript
 Dependencies
 Vue.js (^v2.x).
 
@@ -19,6 +20,7 @@ Browser support
 Modern browsers and IE 9+.
 
 视频教程：https://www.laravist.com/series/use-element-ui-tool-kit
+''
 
 ##iView
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
