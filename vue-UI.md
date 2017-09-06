@@ -5,14 +5,14 @@ vue优秀UI组件库合集
 PC端vue-UI组件库
 --------------------
 
-##Element
+## Element
 ![element](https://github.com/cywcd/book/blob/master/img/vueui_element_logo.png "element")
 
  star★：11.2k
 * [demo：http://element.eleme.io/#/zh-CN/component/layout](http://element.eleme.io/#/zh-CN/component/layout)<br /> 
 * [docs：http://element.eleme.io/#/zh-CN](http://element.eleme.io/#/zh-CN)<br /> 
 * [github：https://github.com/ElemeFE/element](https://github.com/ElemeFE/element)<br /> 
-'' javascript
+
 Dependencies
 Vue.js (^v2.x).
 
@@ -20,9 +20,9 @@ Browser support
 Modern browsers and IE 9+.
 
 视频教程：https://www.laravist.com/series/use-element-ui-tool-kit
-''
 
-##iView
+
+## iView
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：5.6k
@@ -35,7 +35,7 @@ Vue.js (^v2.x) - use HERE for Vue 1.x support.
 Browser support
 Modern browsers and IE 9+.
 
-##VueStrap
+## VueStrap
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：3.7k
@@ -46,7 +46,7 @@ Dependencies
 Vue.js (required ^v1.x.x, test with v1.0.8).
 Bootstrap CSS (required 3.x.x, test with 3.3.5).
 
-##Vue Admin
+## Vue Admin
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：3.8k
@@ -56,7 +56,7 @@ github：https://github.com/vue-bulma/vue-admin
 Dependencies
 Vue.js (^v2.x+) - use HERE for Vue 1.x support.
 
-##Keen UI
+## Keen UI
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：2.5k
@@ -69,7 +69,7 @@ Vue.js (^v2.x) - use keen-ui@0.8.9 for Vue 1.x support.
 Browser support
 Modern browsers and IE 10+ (due to Flexbox support).
 
-##Vue MDL
+## Vue MDL
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：890
@@ -79,7 +79,7 @@ github：https://github.com/posva/vue-mdl
 Dependencies
 Vue.js (^v2.x).
 
-##BootstrapVue
+## BootstrapVue
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：783
@@ -89,7 +89,7 @@ github：https://github.com/bootstrap-vue/bootstrap-vue/
 Dependencies
 Vue.js (^v2.x).
 
-##Vue-Blu
+## Vue-Blu
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：680
@@ -102,7 +102,7 @@ Vue.js (^v2.x).
 Browser support
 Modern browsers and IE10+
 
-##Vuikit
+## Vuikit
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：646
@@ -115,7 +115,7 @@ Vue.js (^v2.x).
 Mobile端vue-UI组件库
 ------------------------
 
-##Vux
+## Vux
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：7.4k
@@ -125,7 +125,7 @@ github：https://github.com/airyland/vux
 Dependencies
 Vue.js (^v2.x).
 
-##Mint UI
+## Mint UI
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：5.4k
@@ -135,7 +135,7 @@ github：https://github.com/ElemeFE/mint-ui
 Dependencies
 Vue.js (^v2.x).
 
-##Vonic
+## Vonic
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：1.6k
@@ -145,7 +145,7 @@ github：https://github.com/wangdahoo/vonic
 Dependencies
 Vue.js (^v2.x).
 
-##Vum
+## Vum
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：816
@@ -155,7 +155,7 @@ github：https://github.com/vum-team/vum
 Dependencies
 Vue.js (^v2.x).
 
-##Vue-Carbon
+## Vue-Carbon
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：632
@@ -165,7 +165,7 @@ github：https://github.com/myronliu347/vue-carbon
 Dependencies
 Vue.js (^v1.0.2).
 
-##YDUI
+## YDUI
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：127
@@ -175,7 +175,7 @@ github：https://github.com/ydcss/vue-ydui
 Dependencies
 Vue.js (^v2.x).
 
-##Vuwe
+## Vuwe
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：122
@@ -185,7 +185,7 @@ github：https://github.com/vuwe/vuwe
 Dependencies
 Vue.js (^v2.x).
 
-##WE-VUE
+## WE-VUE
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：37
@@ -197,7 +197,7 @@ Vue.js (^v2.x).
 响应式布局-vue-UI组件库
 ------------------------
 
-##Vue Material
+## Vue Material
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：2.7k
@@ -210,7 +210,7 @@ Vue.js (^v2.x).
 Browser Support
 the latest version of all Browsers and Edge 12+ IE 11
 
-##Muse-UI
+## Muse-UI
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：2.5k
@@ -225,7 +225,7 @@ IE 10+
 Andorid 4.4+
 IOS 7+
 
-##Vuetify
+## Vuetify
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：2.1k
@@ -235,7 +235,7 @@ github：https://github.com/vuetifyjs/vuetify
 Dependencies
 Vue.js (^v2.x).
 
-##Radon UI
+## Radon UI
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：669
@@ -245,7 +245,7 @@ github：https://github.com/luojilab/radon-ui
 Dependencies
 Vue.js (^v2.x).
 
-##RUBIK
+## RUBIK
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：191
@@ -258,7 +258,7 @@ Vue.js (^v2.x).
 Hybrid混合开发vue-UI组件库
 ------------------------
 
-##OnsenUI-Vue
+## OnsenUI-Vue
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：4.6k
@@ -274,7 +274,7 @@ iOS 8+
 Chrome
 Safari
 
-##Quasar
+## Quasar
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：1.8k
@@ -284,7 +284,7 @@ github：https://github.com/quasarframework/quasar
 Dependencies
 Vue.js (^v2.x).
 
-##Framework7-Vue
+## Framework7-Vue
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 
 star★：247
