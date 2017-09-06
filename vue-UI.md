@@ -8,32 +8,33 @@ PC端vue-UI组件库
 ## Element
 ![element](https://github.com/cywcd/book/blob/master/img/vueui_element_logo.png "element")
 
- star★：11.2k
-* [demo：http://element.eleme.io/#/zh-CN/component/layout](http://element.eleme.io/#/zh-CN/component/layout)<br /> 
-* [docs：http://element.eleme.io/#/zh-CN](http://element.eleme.io/#/zh-CN)<br /> 
-* [github：https://github.com/ElemeFE/element](https://github.com/ElemeFE/element)<br /> 
+ star★：11.2k<br /> 
+* demo：http://element.eleme.io/#/zh-CN/component/layout<br /> 
+* docs：http://element.eleme.io/#/zh-CN<br /> 
+* github：https://github.com/ElemeFE/element<br /> 
 
-Dependencies
-Vue.js (^v2.x).
+Dependencies<br /> 
+Vue.js (^v2.x).<br /> 
 
-Browser support
-Modern browsers and IE 9+.
+Browser support<br /> 
+Modern browsers and IE 9+.<br /> 
 
 视频教程：https://www.laravist.com/series/use-element-ui-tool-kit
 
 
 ## iView
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+![iView](https://github.com/cywcd/book/blob/master/img/vueui_iview_logo.png "iView")
 
-star★：5.6k
-demo：https://www.iviewui.com/overview
-docs：https://www.iviewui.com/
-github：https://github.com/iview/iview
-Dependencies
-Vue.js (^v2.x) - use HERE for Vue 1.x support.
+star★：5.6k<br /> 
+demo：https://www.iviewui.com/overview<br /> 
+docs：https://www.iviewui.com/<br /> 
+github：https://github.com/iview/iview<br /> 
 
-Browser support
-Modern browsers and IE 9+.
+Dependencies<br />
+Vue.js (^v2.x) - use HERE for Vue 1.x support.<br />
+
+Browser support<br />
+Modern browsers and IE 9+.<br />
 
 ## VueStrap
 ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
