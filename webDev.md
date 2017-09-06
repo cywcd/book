@@ -30,8 +30,19 @@ angular...
 2.微信小程序开发
 ------------------
 
-## 2.1 小程序项目实例
-汇集小程序开发项目实例源码资源。
+## 2.1 微信小程序组件
+* [微信小程序wux自定义组件](https://github.com/skyvow/wux)  
+* [微信小程序反馈系统组件](https://github.com/hotapp8/hotapp-fedback) 
+* [微信小程序图表charts组件](https://github.com/xiaolin3303/wx-charts)  
+* [微信小程序Canvas增强组件](https://github.com/guyoung/WeZRender)  
+
+## 2.2 微信小程序项目脚手架
+* [微信小程序项目脚手架-boilerplate](https://github.com/cantonjs/wxapp-boilerplate)   
+
+## 2.3 小程序项目实例
+* [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)   
+* [微信小程序开源项目库汇总](https://github.com/opendigg/awesome-github-wechat-weapp)  
+汇集小程序开发项目实例源码资源。  
 
 
 3.前端开发工具
