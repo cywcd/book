@@ -8,18 +8,8 @@ web前端开发
 
 ## 1.1 vueJS
 
-### 1.1.1 vue优秀UI组件库
-* pc端UI
-    * [Element](https://github.com/ElemeFE/element)
-    [demo](http://element.eleme.io/#/zh-CN/component/layout)
-    [docs](http://element.eleme.io/#/zh-CN)
-    * [Element](https://github.com/ElemeFE/element)
-    [demo](http://element.eleme.io/#/zh-CN/component/layout)
-    [docs](http://element.eleme.io/#/zh-CN)
-
-* mobile端UI 
-    * [Mint UI](http://mint-ui.github.io/#!/zh-cn)
-    * [VUX](https://vux.li/#/)
+### 1.1.1 vue组件库
+* [vue优秀UI组件库合集](https://github.com/cywcd/book/blob/master/vue-UI.md)
 
 ### 1.1.2 vue脚手架
 * [官方脚手架vue-cli](https://github.com/vuejs/vue-cli)
