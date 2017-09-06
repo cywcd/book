@@ -14,6 +14,9 @@ web前端开发
 ### 1.1.2 vue脚手架
 * [官方脚手架vue-cli](https://github.com/vuejs/vue-cli)
 
+### 1.1.3 vue调试工具
+* [vue-devtools](https://github.com/vuejs/vue-devtools)
+
 ## 1.2 reactJS
 
 ### 1.2.1 react组件库
