@@ -38,6 +38,6 @@ angular...
 
 ### 3.1.1 自动化工具
 
-3.2.1 webpack打包工具
+webpack打包工具
 
  
