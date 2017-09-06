@@ -13,11 +13,11 @@ PC端vue-UI组件库
 * docs：http://element.eleme.io/#/zh-CN<br /> 
 * github：https://github.com/ElemeFE/element<br /> 
 
-    'Dependencies  
-    Vue.js (^v2.x).    
-    Browser support  
-    Modern browsers and IE 9+.  
-    视频教程：https://www.laravist.com/series/use-element-ui-tool-kit'
+' Dependencies  
+Vue.js (^v2.x).    
+Browser support  
+Modern browsers and IE 9+.  
+视频教程：https://www.laravist.com/series/use-element-ui-tool-kit '
 
 
 ## iView
