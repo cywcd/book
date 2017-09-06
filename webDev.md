@@ -9,6 +9,9 @@ web前端知识库
 ## 1.1 vueJS
 
 ### 1.1.1 vue组件库
+* pc端UI
+ * [Mint UI](http://mint-ui.github.io/#!/zh-cn)
+ * [VUX](https://vux.li/#/)
 
 ### 1.1.2 vue脚手架
 * [官方脚手架vue-cli](https://github.com/vuejs/vue-cli)
