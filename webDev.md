@@ -20,7 +20,12 @@ web前端开发
 ## 1.2 reactJS
 
 ### 1.2.1 react组件库
-react....
+* [10 个打造 React.js App 的最佳 UI 框架](http://www.jianshu.com/p/bba3662fa8ab)
+
+### 1.2.2 react脚手架
+* [create-react-app 官方脚手架](https://github.com/facebookincubator/create-react-app)
+* [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+* [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
 
 ## 1.3 angularJS
 
